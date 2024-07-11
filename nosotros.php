@@ -56,7 +56,7 @@
 
 <body>
     <div class="whatsapp">
-        <a href="https://wa.link/d53e1z" target="_blank"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://wa.link/x94t0u" target="_blank"><i class="fab fa-whatsapp"></i></a>
     </div>
 
     <!-- <div class="loader__screen" id="loader">
@@ -142,12 +142,22 @@
                     <p>Soy una infectóloga pediatra, me dedico a estudiar, diagnosticar y tratar infecciones en niños</p>
                     <div class="estudios">
                         <div>
-                            <h2>Estudios</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <a href="pdfs/13263210-C1.pdf" target="__blank">
+                                <h2>Cedula Profesional</h2>
+                                <p>Número de Cédula Profesional: 13263210</p>
+                            </a>
                         </div>
                         <div>
-                            <h2>Estudios</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <a href="pdfs/certificado-infectologia.pdf" target="__blank">
+                                <h2>Certificado Infectología</h2>
+                                <p>Especialista en Infectología Pediátrica</p>
+                            </a>
+                        </div>
+                        <div>
+                            <a href="pdfs/TITULO-PEDIA.pdf" target="__blank">
+                                <h2>Titulo Pediatria</h2>
+                                <p>Especialidad en Pediatría</p>
+                            </a>
                         </div>
                     </div>
                 </div>

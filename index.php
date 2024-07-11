@@ -57,7 +57,7 @@
 
 <body>
   <div class="whatsapp">
-    <a href="https://wa.link/d53e1z" target="_blank"><i class="fab fa-whatsapp"></i></a>
+    <a href="https://wa.link/x94t0u" target="_blank"><i class="fab fa-whatsapp"></i></a>
   </div>
 
   <div class="loader__screen" id="loader">
@@ -167,7 +167,7 @@
           <h2>DRA. SAYDA HINOJOSA</h2>
           <h3>PEDIATRÍA - INFECTOLOGÍA</h3>
           <p>Soy la Dra. Sayda Hinojosa Curiel, pediatra e infectóloga pediátrica, con una sólida formación y un profundo amor por el cuidado de los niños. Mi experiencia abarca el diagnóstico, tratamiento y prevención de infecciones infantiles, centrándome en las necesidades individuales de cada niño y su familia. Mi objetivo es ofrecer atención de alta calidad y personalizada para mantener a tus hijos sanos y felices.</p>
-          <a href="" class="button secondary">Conocer más<span class="icon-call_made"></span></a>
+          <a href="nosotros.php" class="button secondary">Conocer más<span class="icon-call_made"></span></a>
         </div>
         <div class="right">
           <figure>
@@ -235,8 +235,8 @@
 
     <section id="location">
       <h2>Ubicación</h2>
-      <p>Calle Ignacio Ramírez 1412 - A Lomas del <br> Country Guadalajara, Jalisco 44610 MX</p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.2709528876776!2d-103.3630044!3d20.6992191!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428ae2621ef0001%3A0x9b1b01fdcd9656a4!2sC.%20Ignacio%20Ram%C3%ADrez%201412a%2C%20Lomas%20del%20Country%2C%2044610%20Guadalajara%2C%20Jal.!5e0!3m2!1ses-419!2smx!4v1717453043149!5m2!1ses-419!2smx" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <p>Calle Gabriel Ramos Millán 117-Puerta 2 Piso 2 Int. 7, Col Americana, Americana, 44160 Guadalajara, Jal.</p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.7938412016697!2d-103.36746029999999!3d20.677964700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428afb614a867a7%3A0xb109d7ef6cde6a94!2sPediatra%20e%20Infect%C3%B3loga%20pedi%C3%A1trica%20-%20Dra.%20Sayda%20Hinojosa!5e0!3m2!1ses-419!2smx!4v1720713531596!5m2!1ses-419!2smx" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </section>
 
   </main>
